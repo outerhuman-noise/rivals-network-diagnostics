@@ -1,0 +1,9 @@
+# Never commit raw logs/traces
+data/raw/
+*.pcap
+*.etl
+*.csv
+
+# OS noise
+.DS_Store
+Thumbs.db
