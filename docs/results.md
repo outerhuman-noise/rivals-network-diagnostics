@@ -35,3 +35,5 @@ the most plausible explanations are
 ## network based
 - enable SQM/QoS on the router to reduce jitter under load*
 - Prefer ethernet to elimite wifi micro stalls*
+
+* untested solutions
